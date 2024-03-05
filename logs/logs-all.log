@@ -1,0 +1,12 @@
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:30.498Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:32.264Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:34.254Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:36.235Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:38.231Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:40.232Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:42.244Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:44.638Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:46.232Z"}
+{"message":"Service https://www.youtube.com/ working","level":"low","origin":"check-service.ts","createdAt":"2024-03-05T14:53:48.243Z"}
+{"message":"Email sent to afanador1106@gmail.com,afanador1106@gmail.com","level":"low","origin":"email.Service.ts","createdAt":"2024-03-05T18:47:51.703Z"}
+{"message":"Log email sent to: afanador1106@gmail.com,afanador1106@gmail.com","level":"high","origin":"sendEmailLogs","createdAt":"2024-03-05T19:11:55.921Z"}

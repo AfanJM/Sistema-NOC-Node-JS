@@ -1,0 +1,1 @@
+{"message":"Prueba de un log funcionando working","level":"high","origin":"check-service.ts","createdAt":"2024-03-05T14:53:48.243Z"}{"message":"Log email sent to: afanador1106@gmail.com,afanador1106@gmail.com","level":"high","origin":"sendEmailLogs","createdAt":"2024-03-05T19:11:55.921Z"}
