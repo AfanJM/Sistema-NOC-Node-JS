@@ -50,5 +50,22 @@ export class LogEntity {
 
     }
 
+    //adaptamos el objeto mongo a mi LogEntity
+    static fromObject = (object: {[  key: string]: any}): LogEntity => {
+        
+        const {message, level, origin, createdAt} = object
+
+        const log = new LogEntity({
+            message,
+            level,
+            origin,
+            createdAt
+        })
+
+        return log
+
+
+    }
+
 
 }
